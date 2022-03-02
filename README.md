@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Aleksandar Milovanovic built the Zarlock jiu_jitsu Academy app as a Free app. This SERVICE is provided by Aleksandar Milovanovic at no cost and is intended for use as is.
+Aleksandar Milovanovic built the Zarlock jiu_jitsu Academy app as a Freemium app. This SERVICE is provided by Aleksandar Milovanovic at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
